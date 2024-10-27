@@ -4,6 +4,7 @@ title: Bienvenue sur mon blog !
 
 # Bienvenue sur mon blog !
 
+
 Nous vivons aujourd'hui immergés dans un monde abondant en ressources numériques de toute nature.
 Quiconque désire apprendre, une technologie ou un art, ne serait-ce que la programmation ou bien la méditation, peut, moyennant un coût financier et des efforts d'apprentissage, trouver satisfaction.
 Certains ne s'en privent pas et s'épanouissent simplement. Ils se forment et travaillent dans un secteur qui leur plait. C'est chouette. 
