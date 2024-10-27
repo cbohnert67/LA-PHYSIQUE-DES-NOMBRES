@@ -8,6 +8,7 @@ header {
   width: 200px;
   background-color: teal;
   font-size: 12px;
+  text-align: justify;
 }
 
 footer {
@@ -31,7 +32,8 @@ a {
 header li {
     font-size: 10px;
     background-color: teal;
-    width: 150px;
+    width: 180px;
+    height: 15px;
     margin-top: 5px;
     padding: 0;
 }
