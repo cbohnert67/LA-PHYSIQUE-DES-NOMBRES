@@ -23,4 +23,4 @@ Il est un support qui me permet, d'une part, de raconter mon histoire et cette r
 
 En espérant que mon parcours sera utile à d'autres, La Physique des Nombres est mon journal. Histoire d'apprendre avec les données.
 
-[🎯Commencez à lire le blog d'un aspirant ingénieur en IA](./roadmap.md)
+[Commencez à lire le blog d'un aspirant ingénieur en IA 🤖](./roadmap.md)
