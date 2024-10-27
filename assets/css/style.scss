@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-#header {
+header {
   background-color: teal;
+}
+
+footer > small {
+  font-size: 8px;
 }
