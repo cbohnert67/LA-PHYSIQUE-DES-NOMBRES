@@ -4,7 +4,12 @@
 @import "{{ site.theme }}";
 
 header {
+  left: -40px;
   background-color: teal;
+}
+
+footer {
+  left: -40px;
 }
 
 footer small {
