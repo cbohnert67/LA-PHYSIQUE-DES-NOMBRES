@@ -22,3 +22,5 @@ Ce blog, La Physique des Nombres, se veut ainsi être un journal d'apprentissage
 Il est un support qui me permet, d'une part, de raconter mon histoire et cette rencontre avec la discipline : évoquer des choix de parcours, ma progression, les difficultés. D'autre part, ce blog sera un portfolio. Je souhaite mettre en valeur ce qui me tient à cœur :  mes réussites, mes projets, mes réflexions et mes conseils. 
 
 En espérant que mon parcours sera utile à d'autres, La Physique des Nombres est mon journal. Histoire d'apprendre avec les données.
+
+[Commencez à lire !]({% link pages/roadmap.md %})
