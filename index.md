@@ -14,7 +14,7 @@ Mais bon sang ! Pourquoi fantasmer sur un métier ? Pourquoi baver sur le job di
 
 La réponse à cette question peut paraître simple. Mais elle ne l'est pas tant que ça !
 
-Ce blog a donc pour rôle de m'accompagner dans ce défi que je me lance : Développer des compétences en science des données, devenir Data Scientist.
+Ce blog a donc pour rôle de m'accompagner dans ce défi que je me lance : Développer des compétences en science des données, devenir Ingénieur en Intelligence Artificielle.
 
 J'ai rassemblé, au cours de nombreuses visites de sites plus ou moins pertinents, une collection conséquente de pages et de ressources digitales sur ce sujet. Et le sujet est vaste.
 Il s'agit dorénavant de passer à l'action. Étudier n'est pas chose aisée. Réussir un tel challenge encore moins. Et en vivre ? Une question ouverte.
@@ -23,4 +23,4 @@ Il est un support qui me permet, d'une part, de raconter mon histoire et cette r
 
 En espérant que mon parcours sera utile à d'autres, La Physique des Nombres est mon journal. Histoire d'apprendre avec les données.
 
-[🎯Commencez à lire](./roadmap.md)
+[🎯Commencez à lire le blog d'un aspirant ingénieur en IA](./roadmap.md)
