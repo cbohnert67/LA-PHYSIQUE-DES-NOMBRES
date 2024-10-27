@@ -1,7 +1,7 @@
 ---
 title: Projets & Études de Cas
 layout: default
-permalink: /decouvrir/
+permalink: /projets/
 ---
 
 # 🔬 Projets & Études de Cas
